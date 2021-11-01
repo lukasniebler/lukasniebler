@@ -15,6 +15,8 @@
 
 - 📫 How to reach me: hello@lukas-niebler.de 
 
+![A cat drawn in ghibli style is resting on a fence. Another cat is trying to catch her tail.](https://c.tenor.com/CIkuegBthg0AAAAC/whisper-of-the-heart-cat.gif)
+
 <!---
 lukasniebler/lukasniebler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
