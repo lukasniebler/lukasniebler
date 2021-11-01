@@ -11,6 +11,9 @@
 - 🌖 I work with charities in my spare time, to improve their print- and webdesign. I also manage our local church's WordPress site. (That's how I got started on my WP Dev journey)
 - 🌊 My other hobbies: Corporate Design | Logo Design | Illustration | ( 3D Animation ) || Playing the flute (At least one almost normal thing on my list 🐷)
 - 💡 Stuff I like: Studio Ghibli | Watching Netflix | ( & Drawing - If there is time left )
+
+- 🎯 My goals this year: Dive deeper into Wp Development and additionally to learn React
+
 - 📫 How to reach me: hello@lukas-niebler.de 
 
 <!---
