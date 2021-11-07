@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Lukas
 - 💻 I love WordPress, Web- & UX Design and Microbiology
-- 🖥 Currently working at Regionales Rechenzentrum Erlangen (RRZE) as (Junior Junior) Webdeveloper and CMS manager
+- 🖥 Currently working at Regionales Rechenzentrum Erlangen (RRZE)
 
 ## About me:
 - 🌱 I've graduated with a BS in Biology. That's also the reason why I love Microbiology, Structural and Pharmaceutical biology. (I told you my path is rather bumpy)
