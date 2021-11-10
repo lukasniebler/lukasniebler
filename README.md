@@ -7,7 +7,7 @@
 - 🖥 Currently working at Regionales Rechenzentrum Erlangen (RRZE)
 
 ## About me:
-- 🌱 I've graduated with a BS in Biology. That's also the reason why I love Microbiology, Structural and Pharmaceutical biology. (I told you my path is rather bumpy)
+- 🌱 I've graduated with a BS in Biology. That's also the reason why I love Microbiology, Structural and Pharmaceutical biology.
 - 🌊 My other hobbies: Corporate Design | Logo Design | Illustration | ( 3D Animation ) || Playing the flute
 - 💡 Stuff I like: Studio Ghibli | Watching Netflix | ( & Drawing - If there is time left )
 - 🎯 My goals this year: Dive deeper into WP Development and additionally to learn React
