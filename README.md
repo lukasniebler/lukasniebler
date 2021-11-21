@@ -1,20 +1,12 @@
-![Chihiro on the backseat of the car on a bumpy road. Shaken around a lot.](https://media4.giphy.com/media/Dc4TGF0n3mVVK/giphy.gif?cid=790b76112bf8ddb06bc808a8cb3b22222ddbcda78d715a7e&rid=giphy.gif&ct=g)
+![Chihiro stumbling down the stairs up against a wall](https://media0.giphy.com/media/sNr7PwHsOjyE0/giphy.gif?cid=ecf05e47eeqhryw4v16hdet3cimnwd8oa6x06fnsjh439paw&rid=giphy.gif&ct=g)
 
-# My ride into WordPress webdevelopment
+# My ride into WordPress webdevelopment & UX writing
 
-- 👋 Hi, I’m Lukas
-- 💻 I love WordPress, Web- & UX Design and Microbiology
+- 👋 I’m Lukas
+- 💻 I love WordPress, Web- & UX Design
 - 🖥 Currently working at Regionales Rechenzentrum Erlangen (RRZE)
 
-## About me:
-- 🌱 I've graduated with a BS in Biology. That's also the reason why I love Microbiology, Structural and Pharmaceutical biology.
-- 🌊 My other hobbies: Corporate Design | Logo Design | Illustration | ( 3D Animation ) || Playing the flute
-- 💡 Stuff I like: Studio Ghibli | Watching Netflix | ( & Drawing - If there is time left )
-- 🎯 My goals this year: Dive deeper into WP Development and additionally to learn React
-
-- 📫 How to reach me: hello@lukas-niebler.de 
-
-![A cat drawn in ghibli style is resting on a fence. Another cat is trying to catch her tail.](https://c.tenor.com/CIkuegBthg0AAAAC/whisper-of-the-heart-cat.gif)
+![Chihiro on the backseat of the car on a bumpy road. Shaken around a lot.](https://media4.giphy.com/media/Dc4TGF0n3mVVK/giphy.gif?cid=790b76112bf8ddb06bc808a8cb3b22222ddbcda78d715a7e&rid=giphy.gif&ct=g)
 
 <!---
 lukasniebler/lukasniebler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
