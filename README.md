@@ -6,7 +6,6 @@
 - 💻 I love WordPress, Web- & UX Design
 - 🖥 Currently working at Regionales Rechenzentrum Erlangen (RRZE)
 
-![Chihiro on the backseat of the car on a bumpy road. Shaken around a lot.](https://media4.giphy.com/media/Dc4TGF0n3mVVK/giphy.gif?cid=790b76112bf8ddb06bc808a8cb3b22222ddbcda78d715a7e&rid=giphy.gif&ct=g)
 
 <!---
 lukasniebler/lukasniebler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
